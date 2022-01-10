@@ -32,3 +32,4 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 .idea/
+/cloud-provider-payment8001/target/*
