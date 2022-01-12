@@ -33,3 +33,5 @@ _ReSharper*/
 packages/
 .idea/
 /cloud-provider-payment8001/target/*
+/cloud-api-commons/target/*
+/cloud-consumer-order80/target/*
